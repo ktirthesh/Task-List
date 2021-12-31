@@ -1,0 +1,25 @@
+.ItemName {
+  color: Balck;
+}
+.ListRow {
+  min-height: 30px;
+  box-shadow: 20px;
+  border: 1px solid #71869b40;
+  margin-top: 10px;
+  padding: 10px;
+  height: auto;
+}
+.flex-center-spacebetween {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.flex-center-spaceevenly {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.IconClass {
+  margin: 5px;
+  cursor: pointer;
+}
